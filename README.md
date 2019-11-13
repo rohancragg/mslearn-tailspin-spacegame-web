@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/rohancragg/Space%20Game%20-%20web%20-%20Tests/_apis/build/status/mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/rohancragg/Space%20Game%20-%20web%20-%20Tests/_build/latest?definitionId=5&branchName=master)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=rohancragg_mslearn-tailspin-spacegame-web&metric=alert_status)](https://sonarcloud.io/dashboard?id=rohancragg_mslearn-tailspin-spacegame-web)
 
 # Contributing
 
